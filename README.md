@@ -7,4 +7,4 @@ Anggota Kelompok :
   3. Iqbal Afif
   4. Reza Fahlevi
   
-Note : untuk file jadi (.docx) akan diletakkan diluar folder, sedangkan file keperluan lain seperti file visio, dll akan dimasukkan kedalam folder 'extensions' 
+Note : untuk file jadi (.docx) akan diletakkan diluar folder, sedangkan file keperluan lain seperti file visio, dll akan dimasukkan kedalam folder 'Design' 
